@@ -1,0 +1,1 @@
+[FBAN/FB4A;FBAV/18.0.0.50.27;FBLC/en_US;FBBV/41094935;FBCR/Rakuten;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.orca;FBDV/SAMSUNG SM-A3560/FBSV/14;nullFBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1125,height=1461]
